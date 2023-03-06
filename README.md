@@ -1,2 +1,1 @@
-# TXON_01
-Repository for TXON Task 
+Repository for TXON Tasks done during Webdevelopment internship at TXON. 
